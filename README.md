@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Welcome. 👋
 Constant learning and improvement is my thing as I seek to improve in all aspects. 
 
 I love to:
@@ -12,7 +12,8 @@ I am:
 - 👯 I’m looking to collaborate on opensource projects
 
 📫 How to reach me:
-- (akanjioluwatobishadrach@yahoo.com)
+- akanjioluwatobishadrach@yahoo.com
+- [LinkedIn](https://www.linkedin.com/in/oluwatobiakanji/)
 - [Twitter](https://twitter.com/AkanjiTobiS)
 
 <!--
