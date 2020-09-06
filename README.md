@@ -1,4 +1,10 @@
 ### Hi there 👋
+Constant learning and improvement is my thing as I seek to improve in all aspects. 
+I love to do things such as:
+- solve problems using codes
+- plant fruit trees :apple: :tangerine:
+- read exciting books on business and personal development
+- catch-up with latest development in Nigeria's start-up environment on  
 
 <!--
 **Oluwatobi-beebittech/Oluwatobi-beebittech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
