@@ -1,10 +1,19 @@
 ### Hi there 👋
 Constant learning and improvement is my thing as I seek to improve in all aspects. 
-I love to do things such as:
-- solve problems using codes
-- plant fruit trees :apple: :tangerine:
-- read exciting books on business and personal development
-- catch-up with latest development in Nigeria's start-up environment on  
+
+I love to:
+- solve problems using codes :fireworks:
+- plant fruit trees :apple: :pear:
+- read exciting books on business and personal development :book:
+- catch-up with latest development in Nigeria's start-up environment on  [TechPoint](https://techpoint.africa) :iphone:
+
+I am:
+- 🌱 I’m currently learning Cloud Computing (GCP, AWS, Azure)
+- 👯 I’m looking to collaborate on opensource projects
+
+📫 How to reach me:
+- (akanjioluwatobishadrach@yahoo.com)
+- [Twitter](https://twitter.com/AkanjiTobiS)
 
 <!--
 **Oluwatobi-beebittech/Oluwatobi-beebittech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
